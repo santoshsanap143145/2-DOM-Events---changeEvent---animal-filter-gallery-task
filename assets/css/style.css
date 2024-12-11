@@ -1,0 +1,16 @@
+
+.creatures {
+    /* display: inline-block; */
+      height: 210px;
+      width: 210px;
+    object-fit: cover;
+      
+    }
+    
+  
+    .dropDown {
+      width: 80%;
+      margin: 20px;
+    }
+    
+  
