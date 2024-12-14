@@ -1,8 +1,8 @@
 
 .creatures {
-    /* display: inline-block; */
-      height: 210px;
-      width: 210px;
+    display: inline-block;
+      height: 100%;
+      width: 100%;
     object-fit: cover;
       
     }
